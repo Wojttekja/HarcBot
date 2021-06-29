@@ -43,4 +43,4 @@ async def on_message(message):
             await message.channel.send("Nie tym razem, spróbuj ponownie")
 
 
-client.run('ODU5MTI0MTA3MjE2MTU4NzIw.YNoHrA.c1D9ukjeZ5Rx15ASrw-sBVqG-Og')
+client.run('')
