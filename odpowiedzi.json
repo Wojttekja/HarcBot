@@ -1,10 +1,17 @@
 {
+    "help": 
+        "```Bot do wysyłania zadań i sprawdzania odpowiedzi \n!help = pomoc \n!pyt <numer> - wysyła pytanie o określnym numerze \n!odp <numer> <odpowiedź> - sprawdza odpowiedź, w przypadku poprawnej odpowiedzi wysyła kolejne zadanie```",
+
     "1": {
-        "pyt": "pomidor?",
-        "odp": "owoc"
+        "pyt": "Czym jest szyszka?",
+        "odp": "jedzeniem"
     },
     "2": {
-        "pyt": "biurko?",
-        "odp": "mebel"
+        "pyt": "Zielony po angielsku",
+        "odp": "green"
+    },
+    "3": {
+        "pyt": "Którego lipca zaczyna się obóz? (liczba)",
+        "odp": "17"
     }
 }
